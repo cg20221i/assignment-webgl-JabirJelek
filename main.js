@@ -30,6 +30,6 @@ function main() {
     gl.useProgram(shaderProgram);
 
     gl.clearColor(0.0, 0.0, 0.0, 1.0);
-    //R, G, Blue, Alpha
+    //R, G, Blue, Alp
     ;
 }
