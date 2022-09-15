@@ -101,6 +101,6 @@ function main() {
 
     gl.drawArrays(gl.LINE_LOOP, 0, 14);
     gl.drawArrays(gl.LINE_LOOP, 14, 12);
-    gl.drawArrays(gl.POINT, 26, 10)
-        ;
+    gl.drawArrays(gl.POINT, 26, 10);
+        
 }
