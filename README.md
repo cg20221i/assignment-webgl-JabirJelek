@@ -1,2 +1,5 @@
-# assignment-webgl-JabirJelek
-assignment-webgl-JabirJelek created by GitHub Classroom
+# Assignment-Webgl-Raihan Farid
+created by GitHub Classroom
+
+Name : Raihan Farid <br>
+NRP : 5025201141
